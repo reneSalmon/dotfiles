@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rene.salmon@outlook.de
+	name = René Salmon
